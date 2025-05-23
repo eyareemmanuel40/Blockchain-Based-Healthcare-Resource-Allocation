@@ -5,3 +5,5 @@ Q
 !contracts/demand-forecasting.clar,5/6/56c57e944e56bb999e50cc4124e27b3b59b1fce2
 T
 $contracts/facility-verification.clar,8/4/846317c1e114e49185758a0163ab152909b6c720
+Q
+!contracts/resource-inventory.clar,1/c/1c01cc5d372107e32f8adf974f3235c3911b14f0
